@@ -2,6 +2,8 @@ Hi,
 I am Anjana
 This is my first project
 I am excited to learn git
-I think I understood the basics
+<<<<<<< HEADs
 
 xD
+=======
+>>>>>>> testing
