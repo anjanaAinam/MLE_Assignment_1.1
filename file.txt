@@ -4,6 +4,6 @@ This is my first project
 I am excited to learn git
 <<<<<<< HEADs
 
-xD
+All good
 =======
 >>>>>>> testing
